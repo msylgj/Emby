@@ -57,8 +57,9 @@ HOST,sg.jmsooo.com,Emby
 
 # OtakuDrive
 # CF
-HOST,emby.neko.edu.rs,Emby
 HOST,emby.otakudrive.life,Emby
+# 直连
+HOST,emby2.otakudrive.life,Emby
 
 # 网络跳跃公益服
 HOST,hijklsp.changweicat.shop,Emby

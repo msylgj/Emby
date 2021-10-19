@@ -60,6 +60,9 @@ HOST,emby.otakudrive.life,Emby
 # 直连
 HOST,emby2.otakudrive.life,Emby
 
+# Haochi公益服
+HOST,public.kyarucloud.moe,Emby
+
 # 网络跳跃公益服
 HOST,hijklsp.changweicat.shop,Emby
 
